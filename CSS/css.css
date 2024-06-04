@@ -39,6 +39,8 @@
     font-size: 0.6rem;
 }
 
+
+
 p {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
@@ -49,6 +51,9 @@ p {
 }
 .Header-logo{
     width: 3rem;
+}
+.Header-a--selected{
+    text-decoration: underline;
 }
 
 .Main{
@@ -69,6 +74,7 @@ p {
 .Gallery-img{
     width: 100%;
     height: 100%;
+    
 }
 .Gallery-text{
     padding-top: 30px;

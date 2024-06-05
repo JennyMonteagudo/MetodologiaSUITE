@@ -60,7 +60,7 @@ p {
     padding: 30px;
 }
 .Header-logo{
-    width: 3rem;
+    width: 60px;
 }
 .Header-a--selected{
     text-decoration: underline;

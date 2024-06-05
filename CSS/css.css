@@ -8,6 +8,16 @@
     font-size: 16px;
 }
 
+  
+  /* montserrat-500 - latin */
+  @font-face {
+    font-display: swap; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/montserrat-v26-latin-500.woff2') format('woff2'); 
+  }
+
 
 /*Utilidades*/
 .u-flexRow{
@@ -90,7 +100,8 @@ p {
     gap: 10px;
 }
 .fa-arrow-right{
-    rotate: 315deg;
+    transform: rotate(315deg);
+    
 }
 .Linea{
     padding-bottom: 10px ;

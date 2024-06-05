@@ -100,10 +100,6 @@ p {
     align-items: center;
     gap: 10px;
 }
-.fa-arrow-right{
-    transform: rotate(315deg);
-    
-}
 .Linea{
     padding-bottom: 10px ;
 }
@@ -113,6 +109,9 @@ hr{
   width: 98%;
   text-align: center;
 }
-.fa-arrow-up{
-    font-size: 0.6rem;
+.Icono{
+    width: 0.6rem;
+}
+.Icono--rotate{
+    transform: rotate(315deg);
 }

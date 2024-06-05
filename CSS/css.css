@@ -111,6 +111,7 @@ hr{
 }
 .Icono{
     width: 10px;
+    height: 10px;
 }
 .Icono--rotate{
     transform: rotate(315deg);

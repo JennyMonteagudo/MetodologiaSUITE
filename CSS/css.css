@@ -110,7 +110,7 @@ hr{
   text-align: center;
 }
 .Icono{
-    width: 0.6rem;
+    width: 10px;
 }
 .Icono--rotate{
     transform: rotate(315deg);
